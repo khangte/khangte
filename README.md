@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=khangte&show_icons=true&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=00000000&line=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=00000000&line=58A6FF&point=0A2472&title_color=58A6FF" width=94%/>
 </a>
 
 <div align=center><h1>📚 STACKS</h1></div>
