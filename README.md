@@ -29,36 +29,74 @@ Here are some ideas to get you started:
 
 <div align="center"><h1>📚 STACKS</h1></div>
 
-<table align="center">
+<table align="center" border="1" width="300">
   <tr>
     <th>💻 Programming Languages</th>
+  </tr>
+  <tr>
+    <td align="center">Python</td>
+  </tr>
+  <tr>
+    <td align="center">Java</td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+  </tr>
+  <tr>
+    <td align="center">C++</td>
+  </tr>
+  <tr>
+    <td align="center">C#</td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" border="1" width="300">
+  <tr>
     <th>🗄️ Database</th>
+  </tr>
+  <tr>
+    <td align="center">MySQL</td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" border="1" width="300">
+  <tr>
     <th>🖥️ Operating System</th>
+  </tr>
+  <tr>
+    <td align="center">Linux</td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" border="1" width="300">
+  <tr>
     <th>🛠️ Development Tools</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></td>
-    <td rowspan="5"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
-    <td rowspan="5"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
-    <td><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></td>
+    <td align="center">GitHub</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></td>
+    <td align="center">PyCharm</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></td>
+    <td align="center">IntelliJ IDEA</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"></td>
+    <td align="center">Android Studio</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></td>
+    <td align="center">Visual Studio</td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></td>
+    <td align="center">Unity</td>
+  </tr>
+  <tr>
+    <td align="center">RStudio</td>
   </tr>
 </table>
