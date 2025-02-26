@@ -27,38 +27,37 @@ Here are some ideas to get you started:
 </a>
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align="center"><h1>📚 STACKS</h1></div>
 
-<!-- 프로그래밍 언어 -->
-<div align=center><h2>💻 Programming Languages</h2></div>
-<div align=center>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
-
-<!-- 데이터베이스 -->
-<div align=center><h2>🗄️ Database</h2></div>
-<div align=center>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-</div>
-
-<!-- 운영체제 -->
-<div align=center><h2>🖥️ Operating System</h2></div>
-<div align=center>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
-
-<!-- 개발 도구 -->
-<div align=center><h2>🛠️ Development Tools</h2></div>
-<div align=center>
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
-</div>
+<table align="center">
+  <tr>
+    <th>💻 Programming Languages</th>
+    <th>🗄️ Database</th>
+    <th>🖥️ Operating System</th>
+    <th>🛠️ Development Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+    </td>
+  </tr>
+</table>
