@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- ================= SNS ================= -->
-<div align="left"><h3>📱 SNS</h3></div>
+<div align="left"><h2>📱 SNS</h2></div>
 <div align="left">
   <a href="mailto:minhyuk00321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
