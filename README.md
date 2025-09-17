@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangte&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=khangte&show_icons=true&count_private=true" width=56% />
 </a>
