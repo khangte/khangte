@@ -28,48 +28,38 @@ Here are some ideas to get you started:
 
 
 <!-- ================= STACKS ================= -->
-<div align="center"><h1>📚 STACKS</h1></div>
+<div align="left"><h2>📚 STACKS</h2></div>
 
 <div align="left">
 
 <b>| Language</b><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-<br><br>
+<br>
 
 <b>| Frameworks</b><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/HDFS-00A3E0?style=for-the-badge&logo=apachehadoop&logoColor=white">
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 
-<br><br>
+<br>
 
 <b>| Data</b><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/ScyllaDB-50B6C8?style=for-the-badge&logo=scylladb&logoColor=white">
 
-<br><br>
+<br>
 
 <b>| Infra</b><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/Delta%20Lake-0A9EDC?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 </div>
 
 <!-- ================= SNS ================= -->
-<div align="left"><h1>📱 SNS</h1></div>
-<div align="center">
+<div align="left"><h2>📱 SNS</h2></div>
+<div align="left">
   <a href="mailto:minhyuk00321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
