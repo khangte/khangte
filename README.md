@@ -22,10 +22,9 @@ Here are some ideas to get you started:
         width="38%"
     />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=khangte&show_icons=true&count_private=true"
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=khangte&show_icons=true"
         width="56%"
     />
 </a>
