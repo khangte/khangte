@@ -16,20 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="96%" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Top languages by repo" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="Stats" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" alt="Productive time" />
-</p>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=00000000&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000" 
