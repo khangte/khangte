@@ -16,18 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=khangte&layout=donut&exclude_repo=Face-Transfer-Application&hide=Jupyter%20Notebook"
-        width="38%"
+      src="https://네-버셀-도메인/api/top-langs?username=khangte&layout=donut&exclude_repo=Face-Transfer-Application&hide=Jupyter%20Notebook"
+      width="38%"
+      alt="Top languages"
     />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=khangte&show_icons=true"
-        width="56%"
+      src="https://네-버셀-도메인/api?username=khangte&show_icons=true"
+      width="56%"
+      alt="GitHub stats"
     />
-</a>
+  </a>
+</p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img 
         src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=00000000&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000" 
