@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=00000000&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000" 
-        width=94%
-    />
-</a>
-
-
 <!-- ================= STACKS ================= -->
 <div align="left"><h2>📚 STACKS</h2></div>
 
@@ -84,5 +75,8 @@ Here are some ideas to get you started:
 </div>
 
 
----
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=00000000&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000" 
+    />
+</a>
