@@ -12,7 +12,7 @@
 <!-- Main skills and tools -->
 ## Main Skills
 <div>
-    <img src="https://skillicons.dev/icons?i=py,fastapi,java,mysql,mariadb,postgresql,redis,aws,docker,linux,ubuntu,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,mariadb,postgresql,redis,aws,docker,linux,ubuntu,git,github" />
 </div>
 
 <!-- Contact links -->
@@ -27,11 +27,29 @@
 <!-- GitHub Activity -->
 ## GitHub Activity
 <p align="left">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=FFFFFF&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000&area=true&area_color=87CEEB&thema=github-compact" height="180" align="top" />
-    </a>
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khangte&theme=github"
+        alt="top languages by repo"
+        height="160"
+        align="top"
+    />
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=khangte" height="180" align="top" />
+        <img
+            src="https://streak-stats.demolab.com/?user=khangte"
+            alt="github streak stats"
+            height="160"
+            width=default
+            align="top"
+        />
+    </a>
+</p>
+<p align="left">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=FFFFFF&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000&area=true&area_color=87CEEB&theme=github-compact"
+            alt="github activity graph"
+            width="682"
+        />
     </a>
 </p>
 
