@@ -1,74 +1,51 @@
-## Hi there 👋
-
+<!-- markdownlint-disable -->
 <!--
-**Khangte/Khangte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    Hi, I'm Kang MinHyeok!
+    Thanks for visiting my README.
 -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=00000000&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000" 
-    />
+<!-- header -->
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6EC6FF&height=120&section=header&text=KANG's%20GITHUB&fontSize=35&fontColor=FFFFFF&fontAlign=81&fontAlignY=25" width=100% alt="header" /> 
+</div>
+
+<!-- Main skills and tools -->
+## Main Skills
+<div>
+    <img src="https://skillicons.dev/icons?i=py,fastapi,java,mysql,mariadb,postgresql,redis,aws,docker,linux,ubuntu,git,github" />
+</div>
+
+<!-- Contact links -->
+## Connect with me
+<a href="mailto:minhyuk00321@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.instagram.com/0321goshoot/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
+<!-- GitHub Activity -->
+## GitHub Activity
+<p align="left">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&bg_color=FFFFFF&line=58A6FF&point=0A2472&title_color=58A6FF&color=000000&area=true&area_color=87CEEB&thema=github-compact" height="180" align="top" />
+    </a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=khangte" height="180" align="top" />
+    </a>
+</p>
 
-<!-- ================= STACKS ================= -->
-<div align="left"><h2>📚 STACKS</h2></div>
+<!-- Solved.ac Activity -->
+## Problem Solving
+<a href="https://solved.ac/profile/minimouse4">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=minimouse4" alt="Solved.ac profile badge" />
+    <img src="https://mazandi.herokuapp.com/api?handle=minimouse4&theme=cold" alt="Solved.ac grass chart" />
+</a>
 
-<div align="left">
-
-<b>| Language</b>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
-<b>| Frameworks</b>
-<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-
-<b>| Data</b>
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-
-<b>| Infra</b>
-<br>
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<b>| OS</b>
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-
-<b>| Tools</b>
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<!-- footer -->
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6EC6FF&height=120&section=footer" width=100% alt="footer" />
 </div>
 
-<!-- ================= SNS ================= -->
-<div align="left"><h2>📱 SNS</h2></div>
-<div align="left">
-  <a href="mailto:minhyuk00321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://velog.io/@kangte/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-</div>
-
----
+<!-- Thanks for visiting! -->
+<!-- markdownlint-enable -->
