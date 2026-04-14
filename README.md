@@ -58,8 +58,9 @@
 ## Problem Solving
 <a href="https://solved.ac/profile/minimouse4">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=minimouse4" alt="Solved.ac profile badge" />
-    <img src="https://mazandi.herokuapp.com/api?handle=minimouse4&theme=cold" alt="Solved.ac grass chart" />
 </a>
+
+<br>
 
 <!-- footer -->
 <div>
