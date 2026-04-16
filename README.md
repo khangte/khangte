@@ -15,6 +15,8 @@
     <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,mariadb,postgresql,redis,aws,docker,linux,ubuntu,git,github" />
 </div>
 
+<br>
+
 <!-- Contact links -->
 ## Connect with me
 <a href="mailto:minhyuk00321@gmail.com">
@@ -23,6 +25,8 @@
 <a href="https://www.instagram.com/0321goshoot/">
     <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+
+<br>
 
 <!-- GitHub Activity -->
 ## GitHub Activity
