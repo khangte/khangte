@@ -10,26 +10,37 @@
 </div>
 
 <!-- Main skills and tools -->
+
 ## Main Skills
+
 <div>
-    <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,mariadb,postgresql,redis,aws,docker,linux,ubuntu,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=kafka" />
+    <img src="https://skillicons.dev/icons?i=grafana" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github,githubactions" />
 </div>
 
 <br>
 
 <!-- Contact links -->
+
 ## Connect with me
+
 <a href="mailto:minhyuk00321@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://www.instagram.com/0321goshoot/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+<!-- <a href="https://www.instagram.com/0321goshoot/">
+    <img src="https://skillicons.dev/icons?i=instagram" /> -->
 </a>
 
 <br>
 
 <!-- GitHub Activity -->
+
 ## GitHub Activity
+
 <p align="left">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img
