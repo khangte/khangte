@@ -46,7 +46,7 @@
         <img
             src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khangte&theme=merko"
             alt="top languages by repo"
-            height="160"
+            height="180"
             align="top"
         />
     </a>
@@ -61,7 +61,7 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img
             src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&theme=merko&area=true&area_color=FACC15&&hide_border=true"
-            height="160"
+            height="180"
             alt="github activity graph"
             align="top"
         />
