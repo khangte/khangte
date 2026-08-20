@@ -58,13 +58,12 @@
             align="top"
         />
     </a> -->
-</p>
-<p align="left">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img
             src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&theme=merko&area=true&area_color=FACC15&&hide_border=true"
-            width="682"
+            height="160"
             alt="github activity graph"
+            align="top"
         />
     </a>
 </p>
