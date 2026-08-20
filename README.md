@@ -50,14 +50,14 @@
             align="top"
         />
     </a>
-    <a href="https://git.io/streak-stats">
+    <!-- <a href="https://git.io/streak-stats">
         <img
             src="https://streak-stats.demolab.com/?user=khangte&theme=merko&hide_border=true"
             alt="github streak stats"
             height="160"
             align="top"
         />
-    </a>
+    </a> -->
 </p>
 <p align="left">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
