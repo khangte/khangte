@@ -1,85 +1,76 @@
-<!-- markdownlint-disable -->
-<!--
-    Hi, I'm Kang MinHyeok!
-    Thanks for visiting my README.
--->
+# 강민혁 | Kang MinHyeok
 
-<!-- header -->
-<div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F0B&height=200&section=header&text=MinHyeok%20Kang&fontSize=70&fontColor=ABD200&fontAlign=64&fontAlignY=30&desc=Khangte's%20GitHub&descSize=20&descAlign=85&descAlignY=55" width=100% alt="header" /> 
-</div>
+- **Email**: minhyuk00321@gmail.com
+- **GitHub**: [github.com/khangte](https://github.com/khangte)
 
-<!-- Main skills and tools -->
+##
 
-## Main Skills
+### 👤 About Me
 
-<div>
-    <img src="https://skillicons.dev/icons?i=py,fastapi" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
-    <img src="https://skillicons.dev/icons?i=kafka" />
-    <img src="https://skillicons.dev/icons?i=grafana" />
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github,githubactions" />
-</div>
+| **Backend Developer / Data Engineer**
 
-<br>
+- FastAPI를 활용한 REST API 개발과 관계형 데이터베이스 설계 및 쿼리 최적화를 경험했습니다.
+- SQL 실행 계획 분석과 Redis 캐싱을 적용해 API 응답 성능을 개선했습니다.
+- Kafka, Spark, ClickHouse 기반 스트리밍 파이프라인을 구축하고 처리량과 지연 문제를 개선했습니다.
+- Airflow, dbt, DuckDB 기반 배치 데이터 파이프라인과 분석용 데이터 모델을 구현했습니다.
+- 성능 테스트와 장애 재현을 통해 개선 효과를 검증하고, 테스트와 모니터링을 활용해 시스템 신뢰성을 높이는 데 관심이 있습니다.
 
-<!-- Contact links -->
+##
 
-## Connect with me
+### 💻 Projects
 
-<a href="mailto:minhyuk00321@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<!-- <a href="https://www.instagram.com/0321goshoot/">
-    <img src="https://skillicons.dev/icons?i=instagram" /> -->
-</a>
+#### [멀티에이전트 오케스트레이션 환경](https://github.com/khangte/my-ai-team) (지속 개선)
 
-<br>
+개인 프로젝트
 
-<!-- GitHub Activity -->
+- Claude Code와 Codex 기반 멀티에이전트 오케스트레이션 환경 구축
+- 역할별 에이전트 관리 및 메시지 전달 자동화
+- 다중 운영체제 및 컨테이너 환경 설치 자동화
 
-## GitHub Activity
+#### [커머스 데이터 배치 파이프라인](https://github.com/khangte/commerce-data-platform) (2026.09 ~ 2026.10)
 
-<p align="left">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khangte&theme=merko"
-            alt="top languages by repo"
-            height="178"
-            align="top"
-        />
-    </a>
-    <!-- <a href="https://git.io/streak-stats">
-        <img
-            src="https://streak-stats.demolab.com/?user=khangte&theme=merko&hide_border=true"
-            alt="github streak stats"
-            height="160"
-            align="top"
-        />
-    </a> -->
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=khangte&theme=merko&area=true&area_color=FACC15&&hide_border=true"
-            height="178"
-            alt="github activity graph"
-            align="top"
-        />
-    </a>
-</p>
+개인 프로젝트 | **Data Engineer**
 
-<!-- Solved.ac Activity -->
-<!-- ## Problem Solving
-<a href="https://solved.ac/profile/minimouse4">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=minimouse4" alt="Solved.ac profile badge" />
-</a> -->
+- 배치 데이터 파이프라인 및 데이터 웨어하우스 구축
+- Star Schema 및 SCD Type 2 기반 데이터 모델링
+- 증분 수집 및 재처리 멱등성 보장
 
-<br>
+#### [로그 데이터 스트리밍 파이프라인](https://github.com/khangte/log-etlm) (2025.12 ~ 2026.01, 2026.06)
 
-<!-- footer -->
-<div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0F0B&height=140&section=footer" width=100% alt="footer" />
-</div>
+개인 프로젝트 | **Data Engineer**
 
-<!-- Thanks for visiting! -->
-<!-- markdownlint-enable -->
+- 대용량 이벤트 로그 스트리밍 처리 파이프라인 구축
+- 스트리밍 처리 병목 분석 및 처리 지연 단축
+- 파이프라인 모니터링 및 장애 감지 체계 구축
+
+#### [커머스 MVP 서비스](https://github.com/khangte/eats-uhok-meta-repo) (2025.07 ~ 2025.09)
+
+팀 프로젝트 6인 | **Backend Developer, DevOps**
+
+- 커머스 서비스 API 개발 및 SQL 최적화로 응답 성능 개선
+- 웹훅 기반 비동기 결제 처리 구조 구현
+- 컨테이너 기반 배포 환경 구축
+
+##
+
+### 🎓 Education
+
+- **LG U+ WhyNot SW Camp 6기** (2025.03 ~ 2025.09)
+  - 클라우드 기반 빅데이터 분석 및 서비스 개발 과정 수료
+
+- **안양대학교** (2019.03 ~ 2025.02)
+  - 컴퓨터공학전공 학사졸업 | 전공학점 4.06 / 4.5
+
+### 📜 Certifications
+
+- ADsP (2025)
+
+- SQLD (2024)
+
+- 정보처리기사 (2024)
+
+### 🏆 Awards
+
+- LG U+ WhyNot SW Camp 최종 프로젝트 경진대회 **LG유플러스상 1위** (2025)
+
+- 안양대학교 캡스톤 디자인 경진대회 **우수상** (2024)
