@@ -9,11 +9,11 @@
 
 | **Backend Developer / Data Engineer**
 
-- FastAPI를 활용한 REST API 개발과 관계형 데이터베이스 설계 및 쿼리 최적화를 경험했습니다.
-- SQL 실행 계획 분석과 Redis 캐싱을 적용해 API 응답 성능을 개선했습니다.
-- Kafka, Spark, ClickHouse 기반 스트리밍 파이프라인을 구축하고 처리량과 지연 문제를 개선했습니다.
-- Airflow, dbt, DuckDB 기반 배치 데이터 파이프라인과 분석용 데이터 모델을 구현했습니다.
-- 성능 테스트와 장애 재현을 통해 개선 효과를 검증하고, 테스트와 모니터링을 활용해 시스템 신뢰성을 높이는 데 관심이 있습니다.
+- FastAPI를 활용해 REST API를 개발하고, 관계형 데이터베이스를 설계했습니다.
+- SQL 실행 계획을 분석하고 Redis 캐싱을 적용했으며, 성능 테스트를 수행했습니다.
+- Kafka, Spark, ClickHouse로 이벤트 로그를 처리하는 스트리밍 파이프라인을 구축했습니다.
+- Airflow, dbt, DuckDB로 배치 파이프라인을 구축하고 Star Schema 기반 차원 모델을 설계했습니다.
+- AWS EC2에서 컨테이너 기반 배포 환경을 구성하고 애플리케이션을 배포했습니다.
 
 ##
 
